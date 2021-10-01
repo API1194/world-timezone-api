@@ -32,7 +32,7 @@
 				<configuration>
 					<cloudHubDeployment>
 						<username>API01194</username>
-						<environment>sandbox</environment>
+						<environment>Sandbox</environment>
 						<workers>1</workers>
 						<workerType>Micro</workerType>
 						<applicationName>world TimeZone-service</applicationName>
